@@ -1,0 +1,1 @@
+Neste repositório coloquei as minhas resoluções para as atividades da disciplina Técnicas de Programação dos meus cursos de Ciência da Computação e Engenharia da Computação da Universidade Anhembi Morumbi.
